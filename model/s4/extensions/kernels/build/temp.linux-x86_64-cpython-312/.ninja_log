@@ -1,0 +1,5 @@
+# ninja log v5
+0	22489	1729507466097029800	/media/mhumais/humais_ssd/s4/extensions/kernels/build/temp.linux-x86_64-cpython-312/cauchy.o	f0e538e9753053f3
+1	40295	1729507483901211400	/media/mhumais/humais_ssd/s4/extensions/kernels/build/temp.linux-x86_64-cpython-312/cauchy_cuda.o	c7154486c1f5229f
+2	13151	1730106444691644294	/home/ku-tii/humais/E-MambaFlow/model/s4/extensions/kernels/build/temp.linux-x86_64-cpython-312/cauchy.o	5c90ca0ceda1c1d5
+2	19626	1730106451167452943	/home/ku-tii/humais/E-MambaFlow/model/s4/extensions/kernels/build/temp.linux-x86_64-cpython-312/cauchy_cuda.o	e20157775151e05c

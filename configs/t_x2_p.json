@@ -1,0 +1,52 @@
+{
+  "name": "t_x2_p",
+  "ckpt": null,
+  "lr": 0.0002,
+  "wdecay": 5e-05,
+  "epsilon": 1e-08,
+  "clip": 1.0,
+  "num_steps": 100,
+  "batch_size": 5,
+  "batch_multiplier": 2,
+  "gpus": [
+    0
+  ],
+  "dropout": 0.0,
+  "H": 480,
+  "W": 640,
+  "n_bins": 32,
+  "e_dims": [
+    32,
+    64,
+    256,
+    512
+  ],
+  "dims": [
+    1,
+    32,
+    64,
+    128
+  ],
+  "T_dims": [
+    32,
+    8,
+    4,
+    1
+  ],
+  "patch_sizes": [
+    32,
+    8,
+    4,
+    1
+  ],
+  "up_sizes": [
+    16,
+    4,
+    2
+  ],
+  "pos_enc": true,
+  "mamba_v": 1,
+  "use_trans": true,
+  "ssm": null,
+  "n_mixers": 2
+}

@@ -1,0 +1,5 @@
+zurich_city_02_d
+zurich_city_08_a
+thun_00_a
+zurich_city_03_a
+zurich_city_11_b
