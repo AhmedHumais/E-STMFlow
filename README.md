@@ -1,6 +1,6 @@
 # ESTMFlow
 
-This repository contains the code for the CVPR Workshop paper: "Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow", designed for flow estimation from event-based data. Below are the instructions to set up the environment, prepare the dataset, and run the model for evaluation and training.
+This repository contains the code for the CVPR Workshop paper: ["Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow"](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Humais_Spatio-Temporal_State_Space_Model_For_Efficient_Event-Based_Optical_Flow_CVPRW_2025_paper.pdf), designed for flow estimation from event-based data. Below are the instructions to set up the environment, prepare the dataset, and run the model for evaluation and training.
 
 ## Dependencies and Environment Setup
 
@@ -83,7 +83,17 @@ Replace [config_filename] with one of the following options:
 - t_x2 for Transformer with temporal encoding
 - t_x2_p for Transformer with temporal + positional encoding
 
-## Acknowledgements
+## Citation
 
+If you find this repository helpful, please cite our paper:
 
-Acknowledgements will be added later.
+```bibtex
+@inproceedings{humais2025stssm,
+  title={Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow},
+  author={Humais, Muhammad Ahmed and Huang, Xiaoqian and Sajwani, Hussain and Javed, Sajid and Zweiri, Yahya},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={5082--5091},
+  year={2025}
+}
+```
+
